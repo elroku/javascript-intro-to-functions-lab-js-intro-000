@@ -13,7 +13,8 @@ function logWhisper(string){
 }
 function sayHiToGrandma(string){
   string.lowercase? "I can't hear you!" : "YES INDEED!"
-    }else{
-      return "I love you, too."
-  }
+  return "I love you, too.
+  
 }
+"
+    
